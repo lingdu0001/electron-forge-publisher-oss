@@ -1,4 +1,4 @@
-# Electron Forge Publisher OSS
+# Electron Forge Publisher Ali OSS
 
 Electron Forge Publisher OSS，将可分发的 Electron 应用程序发布到阿里云对象存储服务（OSS）。
 
